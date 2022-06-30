@@ -1,7 +1,9 @@
 Hi 👋 My name is João Palma
 ===========================
 
-Fullstack Developer @ Near Sea Tech \_\_&\_\_ Adjunct Professor @ Polytechnic Institute of Viana do Castelo
+Fullstack Developer @ Near Sea Tech
+
+djunct Professor @ Polytechnic Institute of Viana do Castelo
 -----------------------------------------------------------------------------------------------------------
 
 Main languages - Typescript, Javascript, Java Frameworks - ReactJs, Redux, MUI, NodeJs, AzureAD, Java Spring, Nest, Express, TypeORM, etc Databases: - MySQL, Oracle, SQLServer, postgreSQL Android Others: - Git, Agile, Scrum, shell, Unix, Team Work, etc
